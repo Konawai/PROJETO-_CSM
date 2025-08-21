@@ -34,4 +34,3 @@ Anellise Cunha - https://github.com/AnneCunha
 Anna Malzone - https://github.com/AnnaMalzone
 Claudio Lobo - https://github.com/lobo-chaib
 Juliano Awazu - https://github.com/awazudev
-Ygor Belarmino - https://github.com/Mercurykz
